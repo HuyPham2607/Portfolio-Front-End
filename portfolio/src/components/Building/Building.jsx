@@ -60,7 +60,7 @@ function Building(props) {
                         </ul>
                         <span>
                             <FontAwesomeIcon
-                                onClick={() => openInNewTab('https://github.com/HuyPham2607/Dissertation')}
+                                onClick={() => openInNewTab('https://github.com/HuyPham2607/Portfolio-Front-End')}
                                 icon={faGithub}
                             />
                         </span>
