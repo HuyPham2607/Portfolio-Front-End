@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5942a407.css",
+    "main.js": "/portfolio/static/js/main.02ee25c4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Dessertation.png": "/portfolio/static/media/Dessertation.0c4d9262084b38a54e17.png",
+    "static/media/avatar.jpg": "/portfolio/static/media/avatar.a88ce7daf60ab9650df5.jpg",
+    "static/media/reactjs.png": "/portfolio/static/media/reactjs.9afc893ed41f7f73ac66.png",
+    "static/media/css.png": "/portfolio/static/media/css.e611e45e9b1827c8dfc6.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.b6ed061492a446dc5a73.png",
+    "static/media/redux.png": "/portfolio/static/media/redux.2ae7fcdc72d0c92abd71.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.6d24faef6af61aa500e6.png",
+    "static/media/html.png": "/portfolio/static/media/html.2b9537768646c738763d.png",
+    "static/media/js.png": "/portfolio/static/media/js.7361e2898c114cf25f56.png",
+    "static/media/Pham-Nguyen-Gia-Huy-Front-End-Developer.pdf": "/portfolio/static/media/Pham-Nguyen-Gia-Huy-Front-End-Developer.a767abf6509352c06ee1.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.5942a407.css.map": "/portfolio/static/css/main.5942a407.css.map",
+    "main.02ee25c4.js.map": "/portfolio/static/js/main.02ee25c4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5942a407.css",
+    "static/js/main.02ee25c4.js"
+  ]
+}
